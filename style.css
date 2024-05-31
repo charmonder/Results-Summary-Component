@@ -125,6 +125,7 @@ button {
 
 button:hover {
     background-image: linear-gradient(var(--clr-light-slate-blue-bg), var(--clr-light-royal-blue-bg));
+    cursor: pointer;
 }
 
 .red {
